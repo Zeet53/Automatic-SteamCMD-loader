@@ -3,9 +3,9 @@
 Автоматический загрузчик контента из Steam Workshop через официальный SteamCMD. Отслеживает буфер обмена и автоматически загружает модификации.
 
 ## 📦 Скачать
-- **[SteamCMD_Loader.exe](SteamCMD_Loader.exe)** - готовая программа для Windows
-- **[main.py](main.py)** - исходный код на Python
-- **[requirements.txt](requirements.txt)** - зависимости Python
+- [⬇️ SteamCMD_Loader.exe](https://github.com/твой-логин/Automatic-SteamCMD-loader/raw/main/SteamCMD_Loader.exe) - готовая программа (Windows)
+- [📄 main.py](https://github.com/твой-логин/Automatic-SteamCMD-loader/raw/main/main.py) - исходный код Python
+- [📋 requirements.txt](https://github.com/твой-логин/Automatic-SteamCMD-loader/raw/main/requirements.txt) - зависимости Python
 
 ## ✨ Возможности
 - 🔄 **Автоматическое отслеживание** - копируйте ссылки, программа их обнаружит
